@@ -1,0 +1,8 @@
+First thing was to 
+
+1. go mod init backend-web-go
+
+2. go get github.com/gofiber/fiber/v2
+
+
+
